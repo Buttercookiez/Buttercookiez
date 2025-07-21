@@ -23,10 +23,10 @@
 ### 💌 Let's Connect
 
 <div align="center">
-  <a href="mailto:buttercookiez.dev@gmail.com" target="_blank">
+  <a href="mailto:johnfrancismarabe2005.@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/buttercookiez" target="_blank">
+  <a href="https://www.linkedin.com/in/john-francis-marabe-427a43334/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://buttercookiez.github.io" target="_blank">
