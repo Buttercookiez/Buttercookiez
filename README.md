@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=honeybutter.honeybutter" alt="Visitor badge" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💖;+I'm+Honeybutter!;aka+The+Vibe+Coder~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💗;+I'm+Honeybutter!;aka+The+Vibe+Coder~" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #FF69B4;">A passionate web developer from the Philippines 🇵🇭</h3>
@@ -10,11 +10,11 @@
 
 <div align="center">
 
-🌸 I’m Honeybutter — also known as the **"vibe coder"** 🎧👩‍💻  
-🌐 Currently working on an **all-in-one Web3 tools website**  
-🚀 Exploring **Docker, Supabase, and AWS**  
-🛠 Ask me about **Playwright, Laravel, Firebase... or anything [here](https://github.com/honeybutter/honeybutter/issues)**  
-✨ Fun fact: *I code better when the vibe is ✨ immaculate ✨*
+🌷 I’m Honeybutter — also known as the **"vibe coder"** 🎧👩‍💻  
+🌸 Currently working on an **all-in-one Web3 tools website**  
+🌺 Exploring **Docker, Supabase, and AWS**  
+💖 Ask me about **Playwright, Laravel, Firebase... or anything [here](https://github.com/honeybutter/honeybutter/issues)**  
+💗 Fun fact: *I code better when the vibe is ✨ immaculate ✨*
 
 </div>
 
@@ -41,12 +41,11 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cs,vscode,figma,github,mysql,firebase,canva" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=laravel" /> <!-- optional if you want to show Laravel -->
+  <img src="https://skillicons.dev/icons?i=laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="40" alt="Playwright" />
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" height="40" alt="Selenium" />
-  <img src="https://cdn.worldvectorlogo.com/logos/metamask.svg" height="40" alt="MetaMask" />
-  <img src="https://cdn.worldvectorlogo.com/logos/go-high-level-1.svg" height="40" alt="GoHighLevel" />
-  <img src="https://n8n.io/images/logo.svg" height="40" alt="n8n" />
+  <img src="https://miro.medium.com/v2/resize:fit:2400/format:webp/1*DZFSv84Ej8L0Gl7W7l-N0w.png" height="40" alt="Selenium" />
+  <img src="https://play-lh.googleusercontent.com/MAbanjWwLE2Ps3c6ZxUgLE6SMSzwy8PQ5mYvc_Txhn_1zv9gLEEKSsLYqW89y1wGdww" height="40" alt="GoHighLevel" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhTtjdq587HWxAStqYgPEb7WwK7EzxxQGxA&s" height="40" alt="n8n" />
 </div>
 
 ---
@@ -54,10 +53,10 @@
 ### 📈 GitHub Stats (in pink 💗)
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=honeybutter&theme=tokyonight-pink&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=honeybutter&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF69B4&title_color=FF69B4" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybutter&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=honeybutter&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF69B4&title_color=FF69B4" alt="GitHub Stats"/>
   <br/><br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeybutter&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&title_color=FF69B4" alt="Top Languages"/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeybutter&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&title_color=FF69B4" alt="Top Languages"/>
 </div>
 
 ---
@@ -65,7 +64,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/honeybutter/honeybutter/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://github.com/honeybutter/honeybutter/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 ---
