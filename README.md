@@ -43,7 +43,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=laravel" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="40" alt="Playwright" />
-  <img src="https://miro.medium.com/v2/resize:fit:2400/format:webp/1*DZFSv84Ej8L0Gl7W7l-N0w.png" height="40" alt="Selenium" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*musVE9e4bgjTWeoRmc-P_w.png" height="40" alt="Selenium" />
   <img src="https://play-lh.googleusercontent.com/MAbanjWwLE2Ps3c6ZxUgLE6SMSzwy8PQ5mYvc_Txhn_1zv9gLEEKSsLYqW89y1wGdww" height="40" alt="GoHighLevel" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhTtjdq587HWxAStqYgPEb7WwK7EzxxQGxA&s" height="40" alt="n8n" />
 </div>
