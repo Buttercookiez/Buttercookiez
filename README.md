@@ -53,10 +53,17 @@
 ### 📈 GitHub Stats (in pink 💗)
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=buttercookiez&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=buttercookiez&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF69B4&title_color=FF69B4" alt="GitHub Stats"/>
-  <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buttercookiez&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&title_color=FF69B4" alt="Top Languages"/>
+  <table>
+    <tr>
+      <td><img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=buttercookiez&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak"/></td>
+      <td><img width="390" src="https://github-readme-stats.vercel.app/api?username=buttercookiez&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF69B4&title_color=FF69B4" alt="GitHub Stats"/></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buttercookiez&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&title_color=FF69B4" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
