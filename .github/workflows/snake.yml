@@ -1,5 +1,5 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: 🐍✨ Cute Snake Animation
 
 on:
   schedule:
@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repo
+      - name: 📦 Clone repo
         uses: actions/checkout@v3
-    
-      - name: Generate the snake files in './dist/'
+
+      - name: 🐍 Generate cute pink snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -25,19 +25,18 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?color_snake=FF89B6&color_dots=FF89B6,FFB3D1,FF6FA4,FF4B91,F53D8B
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
+      - name: ✅ Show build status
         run: git status
 
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: 🚀 Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
-          keep_history: true  # Optional: keeps the history of the output branch
+          commit_message: "✨ Update cute pink snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
