@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=honeybutter.honeybutter" alt="Visitor badge" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💗;+I'm+Honeybutter!;aka+The+Vibe+Coder~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&color=FF69B4&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🌸;+I'm+Honeybutter!;aka+The+Vibe+Coder~" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="color: #FF69B4;">A passionate web developer from the Philippines 🇵🇭</h3>
@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="/assets/icons/pink-plane-globe.svg" width="20" /> I’m Honeybutter — also known as the **"vibe coder"** 🎧👩‍💻  
-<img src="/assets/icons/pink-plane-web.svg" width="20" /> Currently working on an **all‑in‑one Web3 tools website**  
-<img src="/assets/icons/pink-plane-rocket.svg" width="20" /> Exploring **Docker, Supabase, and AWS**  
-<img src="/assets/icons/pink-plane-tools.svg" width="20" /> Ask me about **Playwright, Laravel, Firebase... or anything [here](https://github.com/honeybutter/honeybutter/issues)**  
-<img src="/assets/icons/pink-plane-sparkle.svg" width="20" /> Fun fact: *I code better when the vibe is ✨ immaculate ✨*
+🌸 I'm Honeybutter — also known as the **"vibe coder"** 🎧👩‍💻  
+🌐 Currently working on an **all‑in‑one Web3 tools website**  
+🚀 Exploring **Docker, Supabase, and AWS**  
+🛠 Ask me about **Playwright, Laravel, Firebase... or anything [here](https://github.com/honeybutter/honeybutter/issues)**  
+✨ Fun fact: *I code better when the vibe is ✨ immaculate ✨*
 
 </div>
 
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cs,vscode,figma,github,mysql,firebase,canva" />
   <br/>
   <img src="https://skillicons.dev/icons?i=laravel" />
-  <img src="https://miro.medium.com/v2/resize:fit:720/format/webp/1*musVE9e4bgjTWeoRmc-P_w.png" height="40" alt="Selenium" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*musVE9e4bgjTWeoRmc-P_w.png" height="40" alt="Selenium" />
   <img src="https://play-lh.googleusercontent.com/MAbanjWwLE2Ps3c6ZxUgLE6SMSzwy8PQ5mYvc_Txhn_1zv9gLEEKSsLYqW89y1wGdww" height="40" alt="GoHighLevel" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhTtjdq587HWxAStqYgPEb7WwK7EzxxQGxA&s" height="40" alt="n8n" />
 </div>
