@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  <a href='https://ko-fi.com/buttercookiez' target='_blank'>
-   <img height='50' src='https://ko-fi.com/honeybutterrr' border='0' alt='Buy Me a Milk Tea 🍓' />
+  <a href='https://ko-fi.com/honeybutterrr' target='_blank'>
+    <img height='50' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Milk Tea 🍓' />
   </a>
 </div>
