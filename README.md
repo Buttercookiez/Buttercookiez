@@ -52,10 +52,12 @@
 ### 📈 GitHub Stats (in pink 💗)
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybutter&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4" alt="GitHub Streak"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=honeybutter&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF69B4&title_color=FF69B4" alt="GitHub Stats"/>
+  <a href="https://github.com/honeybutter">
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybutter&theme=tokyonight&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=honeybutter&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF69B4&title_color=FF69B4&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
   <br/><br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeybutter&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&title_color=FF69B4" alt="Top Languages"/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeybutter&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=FF69B4&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 
 ---
