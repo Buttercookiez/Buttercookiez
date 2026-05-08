@@ -11,7 +11,7 @@
 <div align="center">
 
 🌷 I’m Buttercookiez — also known as the **"vibe coder"** 🎧👩‍💻  
-🌺 I’m a 2nd year BSIT student at **Pamantasan ng Lungsod ng San Pablo** 🏫  
+🌺 I’m a 3rd year BSIT student at **Pamantasan ng Lungsod ng San Pablo** 🏫  
 🌸 Currently working on an **all-in-one Web3 tools website**  
 💖 Ask me about **Playwright, Laravel, blockchain... or anything [here](https://github.com/buttercookiez/buttercookiez/issues)**  
 💗 Fun fact: *I code better when the vibe is ✨ immaculate ✨*
